@@ -21,7 +21,7 @@
     The imported font should be applied to all body text.
 */
 body {
-    font-family: 'Noto Sans SC', sans-serif;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
 }
 
@@ -36,7 +36,7 @@ p {
     The background of all divs should be pink.
  */
 div {
-    background-color: lightskyblue;
+    background-color: darkolivegreen;
 }
 
 /*
@@ -129,7 +129,7 @@ a:hover {
 */
 .navbar li {
     width: 150 px;
-    background-color: #000;
+    background-color: rgb(96, 189, 96);
     border: 1px solid white;
     /*
         Show the navbar elements next to each other instead of on top of each
@@ -167,14 +167,14 @@ iframe {
     height:100%;
     border: dotted;
     text-align: center;
-    background-color: lightgreen;
+    background-color: palegoldenrod;
 
 }
 
 .flex-container {
     display: flex;
     flex-wrap: wrap;
-    background-color: green;
+    background-color: rgb(121, 180, 121);
   }
 
 .flex-container > div {
