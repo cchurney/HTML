@@ -23,6 +23,7 @@
 body {
     font-family: 'Raleway', sans-serif;
     text-align: center;
+    background-color: bisque;
 }
 
 /*
@@ -49,6 +50,11 @@ div {
     color: white;
 }
 
+#heading {
+    text-align: left;
+}
+
+
 /*
     You can refer in Style Sheets to classes using the dot .
 */
@@ -64,6 +70,7 @@ div {
     */
     color: rgb(100, 168, 200);
 }
+
 
 .background-image-class {
     background-image: url(https://placeimg.com/400/200/any); background-repeat: no-repeat;
@@ -150,6 +157,7 @@ a:hover {
 
 table, td {
     border: 1px solid gray;
+    background-color: rgb(167, 224, 167);
 }
 
 input {
