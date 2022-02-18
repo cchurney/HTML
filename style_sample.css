@@ -190,7 +190,7 @@ iframe {
   }
 
 .flex-container > div {
-    background-color: bisque;
+    background-color: rgb(172, 211, 172);
     width: 200px;
     margin: 10px;
     text-align: center;
