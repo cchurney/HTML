@@ -37,7 +37,7 @@ p {
     The background of all divs should be pink.
  */
 div {
-    background-color: darkolivegreen;
+    background-color: rgb(121, 180, 121);
 }
 
 /*
@@ -73,7 +73,7 @@ div {
 
 
 .background-image-class {
-    background-image: url(https://placeimg.com/400/200/any); background-repeat: no-repeat;
+    background-image: url("music.png"); background-repeat: no-repeat;
     color: white;
 }
 
