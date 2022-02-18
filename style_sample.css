@@ -15,7 +15,7 @@
 /*
     You can import a font from Google at https://fonts.google.com/
 */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 
 /*
     The imported font should be applied to all body text.
@@ -30,7 +30,7 @@ body {
     All text in paragraphs should be blue.
 */
 p {
-    color:blue;
+    color:black;
 }
 
 /*
@@ -75,6 +75,10 @@ div {
 .background-image-class {
     background-image: url(https://placeimg.com/400/200/any); background-repeat: no-repeat;
     color: white;
+}
+
+.title-class{
+    text-align: left;
 }
 
 .css-box-model-class {
@@ -127,7 +131,7 @@ a:hover {
     /*
         For navbars use background color that stands out.
     */
-    background-color: lightgreen;
+    background-color: rgb(121, 180, 121);
     text-align: center;
 }
 
@@ -136,7 +140,7 @@ a:hover {
 */
 .navbar li {
     width: 150 px;
-    background-color: rgb(96, 189, 96);
+    background-color: rgb(121, 180, 121);
     border: 1px solid white;
     /*
         Show the navbar elements next to each other instead of on top of each
@@ -157,7 +161,7 @@ a:hover {
 
 table, td {
     border: 1px solid gray;
-    background-color: rgb(167, 224, 167);
+    background-color: rgb(121, 180, 121);
 }
 
 input {
@@ -175,7 +179,7 @@ iframe {
     height:100%;
     border: dotted;
     text-align: center;
-    background-color: palegoldenrod;
+    background-color: rgb(121, 180, 121);
 
 }
 
