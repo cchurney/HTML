@@ -38,7 +38,7 @@ p {
     The background of all divs should be pink.
  */
 div {
-    background-color: bisque;
+    background-color: rgb(176, 248, 176);
 }
 
 /*
@@ -74,7 +74,7 @@ div {
 
 .img{
     height:20px;
-    width:20px;
+    width:50%;
 }
 .background-image-class {
     background-image: "music.png"; background-repeat: no-repeat;
@@ -135,7 +135,7 @@ a:hover {
     /*
         For navbars use background color that stands out.
     */
-    background-color: bisque;
+    background-color: rgb(176, 248, 176);
     text-align: center;
 }
 
@@ -144,7 +144,7 @@ a:hover {
 */
 .navbar li {
     width: 150 px;
-    background-color: bisque;
+    background-color: rgb(176, 248, 176);
     border: 1px solid white;
     /*
         Show the navbar elements next to each other instead of on top of each
