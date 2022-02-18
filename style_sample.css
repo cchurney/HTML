@@ -75,11 +75,12 @@ div {
 .img{
     height:75px;
     width:50%;
-    align-items: left;
+    margin-left:2px:
+    margin
 }
 
 .img2{
-    height:125px;
+    height:175px;
     width:50%;
 }
 
